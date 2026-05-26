@@ -9,7 +9,7 @@
   **Materia:** Aprendizaje de Máquina  
   **Institución:** Universidad Industrial de Santander (UIS)  
 
-  [![Video Explicativo](https://img.shields.io/badge/🎥_Ver_Sustentación-YouTube-red?style=for-the-badge&logo=youtube)](TU_URL_DE_YOUTUBE_AQUI)
+  [![Video Explicativo](https://img.shields.io/badge/🎥_Ver_Sustentación-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/YKs904raC7M)
 </div>
 
 <hr>

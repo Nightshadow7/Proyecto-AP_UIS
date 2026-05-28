@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_540pc0540pc0540p.png" alt="Análisis ACV Banner" width="100%">
+  <img src="banner.jpg" alt="Análisis ACV Banner" width="100%">
 
   # 🧠 Análisis Multidimensional y Predicción de Accidentes Cerebrovasculares (ACV)
   ### *Un Enfoque Híbrido entre Aprendizaje Supervisado y No Supervisado*
